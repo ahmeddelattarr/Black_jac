@@ -1,4 +1,3 @@
-#Black_jac
 This is a Blackjack game that I built using Python.
 
 The game is played between a Player and a Dealer. The Player is dealt two cards, and the Dealer is dealt two cards, one of which is hidden.
